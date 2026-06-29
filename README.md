@@ -1,4 +1,4 @@
-# Alpha Signal – AI Multi-Agent Investment Research System |Application Live on: https://ai-investment-research-agent-git-main-shakti019s-projects.vercel.app/|
+# Alpha Signal – AI Multi-Agent Investment Research System |Application Live on: https://ai-investment-research-agent-lime-one.vercel.app/|
 
 > An AI-powered investment research platform built with **Next.js**, **LangGraph**, **LangChain**, and multiple LLM providers to generate comprehensive investment reports through collaborative AI agents.
 > Workflow
